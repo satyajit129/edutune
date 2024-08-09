@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%7Bedutune%7D/static/css/main.fbaac089.css",
-    "main.js": "/%7Bedutune%7D/static/js/main.51f0c07b.js",
-    "static/js/453.4ec1ea4f.chunk.js": "/%7Bedutune%7D/static/js/453.4ec1ea4f.chunk.js",
-    "static/media/success.png": "/%7Bedutune%7D/static/media/success.ae90eb20617e24dabf19.png",
-    "static/media/course.png": "/%7Bedutune%7D/static/media/course.6fae15090d3cfa79c321.png",
-    "static/media/3.jpg": "/%7Bedutune%7D/static/media/3.7573909a030319386a0d.jpg",
-    "static/media/1.jpeg": "/%7Bedutune%7D/static/media/1.d8b1edc8240ac15ba932.jpeg",
-    "static/media/signup.svg": "/%7Bedutune%7D/static/media/signup.0f1a0f68d5193a4aa6b435d96726dc6e.svg",
-    "static/media/slick.svg": "/%7Bedutune%7D/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/%7Bedutune%7D/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/%7Bedutune%7D/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/%7Bedutune%7D/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/%7Bedutune%7D/index.html",
-    "main.fbaac089.css.map": "/%7Bedutune%7D/static/css/main.fbaac089.css.map",
-    "main.51f0c07b.js.map": "/%7Bedutune%7D/static/js/main.51f0c07b.js.map",
-    "453.4ec1ea4f.chunk.js.map": "/%7Bedutune%7D/static/js/453.4ec1ea4f.chunk.js.map"
+    "main.css": "/edutune/static/css/main.2c754dbc.css",
+    "main.js": "/edutune/static/js/main.b77a7305.js",
+    "static/js/453.4ec1ea4f.chunk.js": "/edutune/static/js/453.4ec1ea4f.chunk.js",
+    "static/media/success.png": "/edutune/static/media/success.ae90eb20617e24dabf19.png",
+    "static/media/course.png": "/edutune/static/media/course.6fae15090d3cfa79c321.png",
+    "static/media/3.jpg": "/edutune/static/media/3.7573909a030319386a0d.jpg",
+    "static/media/1.jpeg": "/edutune/static/media/1.d8b1edc8240ac15ba932.jpeg",
+    "static/media/signup.svg": "/edutune/static/media/signup.0f1a0f68d5193a4aa6b435d96726dc6e.svg",
+    "static/media/slick.svg": "/edutune/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/edutune/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/edutune/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/edutune/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/edutune/index.html",
+    "main.2c754dbc.css.map": "/edutune/static/css/main.2c754dbc.css.map",
+    "main.b77a7305.js.map": "/edutune/static/js/main.b77a7305.js.map",
+    "453.4ec1ea4f.chunk.js.map": "/edutune/static/js/453.4ec1ea4f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbaac089.css",
-    "static/js/main.51f0c07b.js"
+    "static/css/main.2c754dbc.css",
+    "static/js/main.b77a7305.js"
   ]
 }
