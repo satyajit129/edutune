@@ -1,0 +1,25 @@
+/* account component */
+.account {
+  width: 50%;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 30px;
+  font-size: 12px;
+}
+.logout_button{
+  border: 1px solid black;
+  padding:5px;
+}
+
+.account > span:last-child {
+  cursor: pointer;
+}
+.nav_right {
+  display: flex;
+  font-size: 12px;
+  gap: 5px;
+  align-items: center;
+  margin-right: 30px;
+}

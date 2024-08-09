@@ -1,0 +1,9 @@
+/* analysis component */
+.analysis {
+  margin: 2rem auto;
+  color:white;
+}
+.analysis h1,
+.analysis h4 {
+  color: white;
+}

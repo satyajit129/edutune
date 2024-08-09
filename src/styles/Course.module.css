@@ -1,0 +1,52 @@
+/* course component */
+.course {
+  max-width: 400px;
+  height: fit-content;
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  padding-bottom: 1rem;
+}
+
+.course:hover {
+  box-shadow: 0 0 15px 0 #e5e5e5;
+}
+.course_title {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.course p {
+  font-size: 16px;
+  font-weight: 500;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+
+.course img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.course .qmeta {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 6px;
+  align-items: center;
+}
+
+.course .qmeta p {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 600px) {
+  .course {
+    width: 100%;
+  }
+}

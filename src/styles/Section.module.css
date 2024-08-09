@@ -1,0 +1,7 @@
+/* Section.module.css */
+.section {
+    background-color: var(--sectionBackground);
+    padding: 3rem ;
+    border-radius: 0;
+    margin: 2rem 0;
+}
