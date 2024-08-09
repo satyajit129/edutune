@@ -73,6 +73,7 @@ export default function Signup() {
                         placeholder="Enter Email"
                         icon="alternate_email"
                     />
+                    
                     {errors.email && (
                             <p className="error-response">{errors.email[0]}</p>
                         )}
