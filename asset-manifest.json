@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/%7Brepository-name%7D/static/css/main.ca075b48.css",
+    "main.js": "/%7Brepository-name%7D/static/js/main.57b9ce33.js",
+    "static/js/453.4ec1ea4f.chunk.js": "/%7Brepository-name%7D/static/js/453.4ec1ea4f.chunk.js",
+    "static/media/success.png": "/%7Brepository-name%7D/static/media/success.ae90eb20617e24dabf19.png",
+    "static/media/course.png": "/%7Brepository-name%7D/static/media/course.6fae15090d3cfa79c321.png",
+    "static/media/3.jpg": "/%7Brepository-name%7D/static/media/3.7573909a030319386a0d.jpg",
+    "static/media/1.jpeg": "/%7Brepository-name%7D/static/media/1.d8b1edc8240ac15ba932.jpeg",
+    "static/media/signup.svg": "/%7Brepository-name%7D/static/media/signup.0f1a0f68d5193a4aa6b435d96726dc6e.svg",
+    "static/media/slick.svg": "/%7Brepository-name%7D/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/%7Brepository-name%7D/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/%7Brepository-name%7D/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/%7Brepository-name%7D/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/%7Brepository-name%7D/index.html",
+    "main.ca075b48.css.map": "/%7Brepository-name%7D/static/css/main.ca075b48.css.map",
+    "main.57b9ce33.js.map": "/%7Brepository-name%7D/static/js/main.57b9ce33.js.map",
+    "453.4ec1ea4f.chunk.js.map": "/%7Brepository-name%7D/static/js/453.4ec1ea4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca075b48.css",
+    "static/js/main.57b9ce33.js"
+  ]
+}
